@@ -5,12 +5,12 @@
 
 # nombre = "Tony Soprano"
 # edad = "51"
-# print( nombre + " " , edad)
+# print( nombre + " " ,edad)
 
 # nombre ="julia"
 # apellido ="roberts"
 # nombrecompleto = nombre + " " + apellido
 # print(nombrecompleto)
 
-curso = "python"
-print("Estas tomando un curso de :" + curso)
+# curso = "python"
+# print("Estas tomando un curso de :" + curso)
